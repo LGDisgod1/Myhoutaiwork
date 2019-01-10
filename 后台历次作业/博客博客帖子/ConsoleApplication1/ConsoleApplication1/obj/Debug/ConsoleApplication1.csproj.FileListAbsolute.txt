@@ -1,0 +1,10 @@
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

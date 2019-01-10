@@ -1,0 +1,26 @@
+﻿@using WebApplication1.Models
+@model Employee
+@{
+    Layout = null;
+    Cusromer ct = (Cusromer)ViewData["Custkey"];
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h2>员工信息</h2>
+        <p>姓名：@Model.Name</p>
+        <p>工资：@Model.Salary.ToString("C")</p>
+
+        <h2>客户信息</h2>
+        <p>姓名：@ct.CustomerName</p>
+        <p>地址：@ct.Address</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\新文件\Mvc\ConsoleApplication1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

@@ -1,0 +1,30 @@
+﻿@using WebApplication1.Models;
+@model Employee
+@{
+    Layout = null;
+}
+@*@{ Employee emp = (Employee)ViewData["Empkey"];}*@
+@*@{Employee emp = ViewBag.Empkey; }*@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyView</title>
+</head>
+<body>
+    @*<h1>@emp.Name,@((string)ViewData["greeting"]) </h1>*@
+    <h1>@Model.Name,@((string)ViewData["greeting"])</h1>
+    <div>
+
+        <h3>员工信息</h3>
+        <p>@Model.Name</p>
+        <p>@Model.Salary.ToString("C")</p>
+        <p>土豪</p>
+</div>
+</body>
+</html>
+
+
+
